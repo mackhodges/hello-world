@@ -1,2 +1,5 @@
 # hello-world
-Repository used for GitHub tutorial 
+
+Hi all:
+This is the repository I am using to learn GitHub
+I enjoy fishing and the outdoors
